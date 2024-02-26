@@ -9,7 +9,6 @@ Bienvenue dans mon univers numérique !
 <details>
 <summary>⚡ En savoir plus sur mon aventure</summary>
 <br />
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=itshyko&theme=dark&hide_border=false)<br/><br/>-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itshyko&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshyko&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </details>
 
