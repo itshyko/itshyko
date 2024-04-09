@@ -1,0 +1,27 @@
+### Hey, je suis HyKo 👋🏼
+
+Je suis un développeur de 21 ans basé au Québec, Canada, et je suis passionné par la création de solutions innovantes.
+
+- Consulte mon [site web](https://hyko.ca) pour en savoir plus sur moi.
+- Visite ma chaîne [YouTube](https://www.youtube.com/@itshyko) pour suivre mes aventures.
+- Rejoins mon serveur [Discord](https://discord.gg/gRahh4kwKX) pour discuter avec la communauté.
+ 
+## 📦 Boîte à outils
+
+**Développement frontend:** `React` `Next.js` `Tailwind` `Wordpress`
+ 
+**Contrôle des versions:** `Git` `Github`
+
+**Développement backend:** `Nest.js` `MySQL` 
+
+**Autres:** `Notion` `Discord` `Figma` `DaVinci Resolve`
+ 
+## ✨ Faits intéressants
+
+- Mon jeu préféré est Assassin's Creed Odyssey.
+- Je switch entre MacOS et Windows plusieurs fois par année.
+- Je déteste Wordpress, mais je l'utilise quand même pour certains projets.
+- J'adore les films de super-héros, surtout ceux de Marvel.
+
+
+Merci d'avoir pris le temps de lire ceci! 🌟
