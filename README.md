@@ -12,7 +12,7 @@ Je suis un développeur de 21 ans basé au Québec, Canada, et je suis passionn�
  
 **Contrôle des versions:** `Git` `Github`
 
-**Développement backend:** `Nest.js` `MySQL` 
+**Développement backend:** `Next.js` `MySQL` `Node.js` `PHP`
 
 **Autres:** `Notion` `Discord` `Figma` `DaVinci Resolve`
  
@@ -22,6 +22,5 @@ Je suis un développeur de 21 ans basé au Québec, Canada, et je suis passionn�
 - Je switch entre MacOS et Windows plusieurs fois par année.
 - Je déteste Wordpress, mais je l'utilise quand même pour certains projets.
 - J'adore les films de super-héros, surtout ceux de Marvel.
-
 
 Merci d'avoir pris le temps de lire ceci! 🌟
