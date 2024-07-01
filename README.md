@@ -14,12 +14,11 @@ Je suis un développeur de 21 ans basé au Québec, Canada, et je suis passionn�
 
 **Développement backend:** `Next.js` `MySQL` `Node.js` `PHP`
 
-**Autres:** `Notion` `Discord` `Figma` `DaVinci Resolve`
+**Autres:** `Figma` `DaVinci Resolve` `Notion` `Discord`
  
 ## ✨ Faits intéressants
 
 - Mon jeu préféré est Assassin's Creed Odyssey.
-- Je switch entre MacOS et Windows plusieurs fois par année.
 - Je déteste Wordpress, mais je l'utilise quand même pour certains projets.
 - J'adore les films de super-héros, surtout ceux de Marvel.
 
