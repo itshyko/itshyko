@@ -1,6 +1,6 @@
 ### Hey, je suis HyKo 👋🏼
 
-Je suis un développeur de 21 ans basé au Québec, Canada, et je suis passionné par la création de solutions innovantes.
+Je suis un développeur basé au Québec, Canada, et je suis passionné par la création de solutions innovantes.
 
 - Consulte mon [site web](https://hyko.ca) pour en savoir plus sur moi.
 - Visite ma chaîne [YouTube](https://www.youtube.com/@itshyko) pour suivre mes aventures.
